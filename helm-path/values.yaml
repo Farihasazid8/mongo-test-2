@@ -21,7 +21,7 @@ global:
   imagePullSecrets: []
   storageClass: ""
   namespaceOverride: ""
-  ## Compatibility adaptations for Kubernetes platforms
+  ## Compatibility adaptations for Kubernetes platforms b3
   ##
   compatibility:
     ## Compatibility adaptations for Openshift
